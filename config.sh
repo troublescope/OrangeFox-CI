@@ -2,10 +2,10 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/troublescope/rosemary_raw_tree -b ofox_12.1"
+export DT_LINK="https://github.com/troublescope/fox_redmi_rosemary -b 12.1"
 
 export DEVICE="rosemary"
-export OEM="xiaomi"
+export OEM="redmi"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
